@@ -1,0 +1,9 @@
+com\avispl\symphony\dal\communicator\sample\aggregator\AggregatorControlsCommunicator.class
+com\avispl\symphony\dal\communicator\sample\TelnetCommunicatorDevice.class
+com\avispl\symphony\dal\communicator\sample\util\CommunicatorUtils.class
+com\avispl\symphony\dal\communicator\sample\RestCommunicatorDevice.class
+com\avispl\symphony\dal\communicator\sample\SampleBaseDevice.class
+com\avispl\symphony\dal\communicator\sample\controls\ControlsCommunicator.class
+com\avispl\symphony\dal\communicator\sample\aggregator\AggregatorCommunicator.class
+com\avispl\symphony\dal\communicator\sample\HttpCommunicatorDevice.class
+com\avispl\symphony\dal\communicator\sample\SshCommunicatorDevice.class
